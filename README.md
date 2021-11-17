@@ -7,3 +7,5 @@ It starts with a certain temperature distribution, and at every time t it comput
 The interruption can be made conditional on the convergence in many ways. Here for simplicity (and inexperience at that time,in 2020) was just asked to go on for a constant number of cycles.
 
 2- Linear system of n x m equations and unknown. Matrix A of size (n x m ; n x m +1 ) is gauss reduced
+
+Plotting is done always by python script (yes, in a sloppy way, i know). In other following codes I did use NCview to plot chromatically functions like z=f(x,y,t)

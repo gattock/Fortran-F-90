@@ -48,7 +48,7 @@ end do
   end do
 
 !Gauss-Jordan elimination 
-!working on this,programming the subroutine is taking more time than expected
+			!you can find this subroutine in the F-90 Repository. one day I will update the file inserting in this code the subroutine.
 
 !Reading values of the T(i,j) from the last column of the matrix g=c(gauss-reduced)
   do i=2,(a-1)

@@ -1,0 +1,14 @@
+!call print_matrix(a,b,C)
+!_______________________________________________
+SUBROUTINE print_matrix (nr,nc,mat)
+implicit none
+integer,intent(in) :: nr,nc
+integer,intent(out) :: mat(nr,nc)
+integer :: i,j
+do i=1,nr
+	!print *, (mat(i,j), j=1,nc )
+	write(*,80) (mat(i,j),j=1,nc )
+	80 FORMAT ('',10F6.1)
+end do
+END SUBROUTINE print_matrix
+!_______________________________________________

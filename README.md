@@ -1,2 +1,1 @@
-# Fortran-F-90
-My non-professional codes and subroutines. Have fun.
+Some debugging still needed: results are probably not as expected

@@ -1,2 +1,1 @@
-# Fortran-F-90
-My non-professional codes and subroutines. Have fun.
+Those are my subrotines. Again, those are not optimized, are intended for educational purpose. Don't use for long computations.
